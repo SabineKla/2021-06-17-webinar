@@ -3,19 +3,20 @@
 ## geboren in Bonn
 ## wohnhaft in Bonn
 ### Hobbies: ich mag fast alles was Fell hat aber keine dicken Spinnen
+### Hallo Welt!
+
 
 # Thomas Happel Vorstellung
 - Seit 2000 bei GS1 Germany
 - verheiratet, 2 Kinder
 - wohne in Köln
 - gebohren in Köln, 09.10.1964
-- 1.FC Köln Mitglied
-- Screamin´Igels MC Mitglied
+- FC Mitglied
 
 # Anna
 
 - geb. 87, Köln
-- BWL Studium
+- BWL
 - Wein
   - *Chardonnay schadet nie*
 - **Queen a.D.**
