@@ -1,5 +1,7 @@
 # Vorstellungsrunde
 
+# Sabine
+
 ## geboren in Bonn
 ## wohnhaft in Bonn
 ### Hobbies: ich mag fast alles was Fell hat aber keine dicken Spinnen
@@ -23,6 +25,7 @@
 
 <img src="https://profile-images.xing.com/images/05df73e289ab343269d2e16d31eaec0d-5/anna-klapper.1024x1024.jpg" width="200px">
 
+
 # Mattias
 
 - Geb. in Bergisch Gladbach 1981
@@ -32,6 +35,14 @@
 - Videogames & alles was Strom hat!
 - Seit 2019 bei GS1G
   - fTRACE Entwicklung
+
+## Giterfahrung
+
+- FTrace gitlab 
+
+## Interesse
+
+- Branching, MR, etc.
 
 # Sebastian
 
